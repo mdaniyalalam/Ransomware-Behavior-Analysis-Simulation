@@ -130,7 +130,8 @@ The simulation models the full lifecycle of a ransomware attack:
 
 - `main.py` – Complete Python source code for the behavioral simulation frontend.  
 - `backend_pseudocode.md` – Abstracted C++ architectural blueprint and cryptographic workflow logic.    
-- `assets/` – Screenshots of the CustomTkinter UI.
+- `screenshots/` – Screenshots of the CustomTkinter UI.
+- `assets/` – Contains images used by the simulation.
 
 ---
 
