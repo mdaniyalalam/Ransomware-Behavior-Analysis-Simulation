@@ -67,7 +67,7 @@ An abstracted backend design outlining a hybrid encryption workflow using **Cryp
 - Controlled memory management design  
 
 > 📌 The backend is intentionally provided as **architectural pseudocode only**.  
-> See `backend_architecture_pseudocode.md` for details.
+> See `backend_pseudocode.md` for details.
 
 ---
 
@@ -129,7 +129,7 @@ The simulation models the full lifecycle of a ransomware attack:
 **File Descriptions:**
 
 - `main.py` – Complete Python source code for the behavioral simulation frontend.  
-- `backend_architecture_pseudocode.md` – Abstracted C++ architectural blueprint and cryptographic workflow logic.    
+- `backend_pseudocode.md` – Abstracted C++ architectural blueprint and cryptographic workflow logic.    
 - `assets/` – Screenshots of the CustomTkinter UI.
 
 ---
